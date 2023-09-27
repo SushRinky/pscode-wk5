@@ -62,6 +62,9 @@ Set min to n5
 Write "The min is"
 Write Min
 
+d)
+Write"The Result from step b is 5 and the result from Step c is 1 is the Minimum and maximum is 5"
+
 
 
 -- END --
